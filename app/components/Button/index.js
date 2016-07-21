@@ -8,7 +8,7 @@
 
 import React, { PropTypes } from 'react';
 
-import styles from './styles.css';
+import styles from './styles.less';
 
 function Button(props) {
   const className = props.className ? props.className : styles.button;

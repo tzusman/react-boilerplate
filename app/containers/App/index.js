@@ -17,7 +17,7 @@ import Footer from 'components/Footer';
 import Banner from './banner-metal.jpg';
 import A from 'components/A';
 
-import styles from './styles.css';
+import styles from './styles.less';
 
 function App(props) {
   return (

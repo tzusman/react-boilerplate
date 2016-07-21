@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './styles.css';
+import styles from './styles.less';
 
 function H1(props) {
   return (
