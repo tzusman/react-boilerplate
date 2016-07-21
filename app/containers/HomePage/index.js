@@ -31,7 +31,7 @@ import List from 'components/List';
 import ListItem from 'components/ListItem';
 import LoadingIndicator from 'components/LoadingIndicator';
 
-import styles from './styles.css';
+import styles from './styles.less';
 
 export class HomePage extends React.Component {
   /**

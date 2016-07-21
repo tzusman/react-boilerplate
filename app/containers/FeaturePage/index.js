@@ -11,7 +11,7 @@ import Helmet from 'react-helmet';
 import Button from 'components/Button';
 import H1 from 'components/H1';
 
-import styles from './styles.css';
+import styles from './styles.less';
 
 export class FeaturePage extends React.Component {
 

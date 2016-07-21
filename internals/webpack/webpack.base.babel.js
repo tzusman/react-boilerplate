@@ -19,7 +19,7 @@ module.exports = (options) => ({
       query: options.babelQuery,
     }, {
       // Transform our own .css files with PostCSS and CSS-modules
-      test: /\.css$/,
+      test: /\.less/,
       exclude: /node_modules/,
       loader: options.cssLoaders,
     }, {
